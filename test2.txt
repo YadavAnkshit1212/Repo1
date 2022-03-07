@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4052-F5EE
+
+ Directory of C:\Users\asus\Desktop\MyProject
+
+07-03-2022  16:24    <DIR>          .
+07-03-2022  16:24    <DIR>          ..
+07-03-2022  14:13                22 index.html
+07-03-2022  14:12                 8 test1.txt
+07-03-2022  16:24                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  25,650,741,248 bytes free
